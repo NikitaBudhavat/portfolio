@@ -20,4 +20,4 @@ Feel free to explore and provide feedback or suggestions! 🙌
 
 ---
 
-You can update the placeholders (like the portfolio and GitHub links) with the relevant URLs.
+You can update the placeholders (https://nikitabudhavat.github.io/portfolio/) with the relevant URLs.
