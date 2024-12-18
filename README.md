@@ -3,6 +3,7 @@
 # 🌟 My Portfolio Website
 
 Welcome to my personal **portfolio**! 🎨✨ This project is built with **HTML** and **CSS** to showcase my work, skills, and web development journey. 🛠️
+![Screenshot 2024-12-18 163358](https://github.com/user-attachments/assets/8b419078-becd-46a2-82c2-c8a3fb936394)
 
 ## 🖥️ Features:
 - **Responsive Design**: Works smoothly on both desktop and mobile 📱💻
